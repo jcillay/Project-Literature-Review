@@ -13,7 +13,7 @@
     </p>
   </li>
   <li>
-    <a href="https://ieeexplore.ieee.org/abstract/document/8957297?casa_token=JTVW2Y0EiC0AAAAA:27v7m8lyZQv2Fzr_z1g_7siXz9q38bC3Y0o8gjPa3zc63nFnDR8AEF7hdET8vkxC8jyqhq8kPi0">Research on a similar project where a robot tries to solve a maze</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8957297?casa_token=JTVW2Y0EiC0AAAAA:27v7m8lyZQv2Fzr_z1g_7siXz9q38bC3Y0o8gjPa3zc63nFnDR8AEF7hdET8vkxC8jyqhq8kPi0">Research on a similar project where a robot tries to solve a maze using RL and other approaches</a>
     <p>
       This paper highlights a similar project to ours in which they have a robot solve multiple mazes in different environments. The main goal of the project, quoted by the authors, is to have a  "Deep Reinforcement Learning (DRL) agent able to ground natural language commands for navigating in arbitrary sized 3D maze(s)". They also talk about the multiple challenges that might be raised by this problem. 
     </p>
