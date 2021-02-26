@@ -20,10 +20,20 @@
     </p>
   </li>
   <li>
-    <a href="url">link text</a>
+    <a href="https://openreview.net/pdf?id=SJMGPrcle 
+">More on Reinforcement Learning and human-level performance</a>
+    <p>
+       This articles details how to use reinforcement learning to navigate a maze and discusses how task performance can be improved by the use of auxiliary tasks. The goal is for the performance to approach human-level performance even when the goal location changes.
+    </p>
   </li>
+  
   <li>
-    <a href="url">link text</a>
+    <a href="https://magnus-engstrom.medium.com/building-an-ai-to-navigate-a-maze-899bf03f224d 
+">Evolving an AI</a>
+  <p>
+    This blog post discusses the steps needed to teach an AI to navigate a maze and reach a goal state. It does this using multiple agents and mutations which are meant to evolve to an AI that can solve the maze most successfully.
+  </p>
   </li>
 
 </ul>
+
